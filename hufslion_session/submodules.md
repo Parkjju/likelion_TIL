@@ -35,3 +35,10 @@ $git commit -m "Message"
 $git submodule init
 $git submodule update
 ```
+
+## 정리
+
+1. organization 공유 레포를 git clone한다.
+2. clone한 폴더로 이동한다. (cd 명령어 이용)
+3. 해당 폴더에 나의 github repository URL로 submodule을 추가한다.
+4. 커밋 - 로그 확인 후 push하면 공유 폴더에 repository연결완료
