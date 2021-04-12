@@ -6,4 +6,5 @@
 
 ### classlion
 
--   [210412 web basic - HTML1](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/web_basic.md)
+-   [210412 web basic - HTML1, HTML이란](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/web_basic.md)
+-   [210412 web basic - HTML2, HTML 태그 기초]
