@@ -8,6 +8,7 @@
 
 <details>
 <summary> 웹 기초 </summary>
+
 -   [210412 web basic - HTML1, HTML이란](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/web_basic.md)
 -   [210412 web basic - HTML2, HTML 태그 기초](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/html2/html2.md)
 -   [210413 web basic - HTML3](https://github.com/Parkjju/likelion_TIL/tree/main/likelion_session/html3)
@@ -20,8 +21,10 @@
 
 <details>
 <summary> 웹 기초 실습 </summary>
+
 -   [210412 web basic - HTML2 실습](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/html2/index.html)
 -   [210413 web basic - HTML3 실습](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/html3/html3.html)
 -   [210413 web basic - bootstrap 실습](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/bootstrap/html3.html)
 -   [210413 web basic - github.io](https://parkjju.github.io/)
+
 </details>
