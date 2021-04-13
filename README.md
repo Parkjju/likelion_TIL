@@ -11,9 +11,9 @@
 
 -   [210412 web basic - HTML1, HTML이란](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/web_basic.md)
 -   [210412 web basic - HTML2, HTML 태그 기초](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/html2/html2.md)
--   [210413 web basic - HTML3](https://github.com/Parkjju/likelion_TIL/tree/main/likelion_session/html3)
--   [210413 web basic - bootstrap](https://github.com/Parkjju/likelion_TIL/tree/main/likelion_session/bootstrap)
--   [210413 web basic - 깃헙 배포](https://github.com/Parkjju/likelion_TIL/tree/main/likelion_session/git_deploy)
+-   [210413 web basic - HTML3](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/html3/html3.md)
+-   [210413 web basic - bootstrap](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/bootstrap/bootstrap.md)
+-   [210413 web basic - 깃헙 배포](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/git_deploy/web_hosting.md)
 
 </details>
 
