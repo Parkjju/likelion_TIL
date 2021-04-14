@@ -42,3 +42,5 @@ $git submodule update
 2. clone한 폴더로 이동한다. (cd 명령어 이용)
 3. 해당 폴더에 나의 github repository URL로 submodule을 추가한다.
 4. 커밋 - 로그 확인 후 push하면 공유 폴더에 repository연결완료
+
+-   [submodule 최종 정리본 - 생활코딩](https://github.com/Parkjju/TIL/blob/master/Git/git_submodule.md)
