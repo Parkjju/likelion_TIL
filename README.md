@@ -23,6 +23,9 @@
 -   [210414 HTML&CSS - Intro](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/Intro/Intro.md)
 -   [210414 HTML&CSS - HTML 기초](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/HTML_basic/html_basic.md)
 -   [210414 HTML&CSS - 텍스트와 관련된 태그](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/html_text/text_tag.md)
+-   [210415 HTML&CSS - 링크태그](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/link_tag/link.md)
+-   [210415 HTML&CSS - 멀티미디어 태그](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/media/media.md)
+-   [210415 HTML&CSS - 테이블과 리스트](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/table/table.md)
 </details>
 
 ### classlion 실습 내용
@@ -44,5 +47,7 @@
 -   [210414 HTML&CSS - HTML 기초](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/HTML_basic/test.html)
 -   [210414 HTML&CSS - 텍스트와 관련된 태그, htag](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/html_text/htag.html)
 -   [210414 HTML&CSS - 텍스트와 관련된 태그, ptag](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/html_text/ptag.html)
-
+-   [210415 HTML&CSS - 링크태그 실습](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/link_tag/link.html)
+-   [210415 HTML&CSS - 미디어태그 실습](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/media/img.html)
+-   [210415 HTML&CSS - 테이블 실습](https://github.com/Parkjju/likelion_TIL/tree/main/likelion_session/HTML%26CSS/table)
 </details>
