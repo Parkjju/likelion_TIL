@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>안녕</title>
+    </head>
+    <body>
+        <h2>회원가입</h2>
+        <form action="my-app" method="get">
+            <div>
+                <label for="userid">아이디</label>
+                <input
+                    type="text"
+                    id="userid"
+                    name="id_ibbneeda"
+                    placeholder="입력하세요"
+                    value="snow"
+                />
+            </div>
+            <div>
+                <label for="userpassword">패스워드</label>
+                <input
+                    type="password"
+                    id="userpassword"
+                    name="password"
+                    placeholder="비밀번호를
+                입력하세요."
+                />
+            </div>
+            <div>
+                <label for="gender">성별:</label>
+                <select name="gender" id="gender">
+                    <option value="male">남성</option>
+                    <option value="female">여성</option>
+                </select>
+            </div>
+            <div>
+                <label for="job">직업:</label>
+                <select name="job" id="job">
+                    <option value="student">학생</option>
+                    <option value="teacher">선생님</option>
+                    <option value="etc">기타</option>
+                </select>
+            </div>
+            <div>
+                <label for="introduce">자기소개:</label>
+                <textarea
+                    name="introduce"
+                    id="introduce"
+                    cols="30"
+                    rows="30"
+                    placeholder="자기소개를 입력하세요."
+                ></textarea>
+            </div>
+            <button type="submit">제출</button>
+            <button type="reset">리셋</button>
+        </form>
+    </body>
+</html>
