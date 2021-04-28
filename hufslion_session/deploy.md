@@ -15,7 +15,7 @@
     - 레포 이름을 제외한 최상위 디렉토리 이름까지 복사한다. (todo_list까지) , (마지막 슬래시는 제외함)
       <img src="images/directory.png" height="75%" weight="75%"/>
     - Deploy site 클릭
-6. 문제 없이 배포가 진행되면 custom domain을 지정한다.
+6. 문제 없이 배포가 진행되면 사이트 이름을 지정한다.
    <img src="images/domain.png" height="75%" weight="75%"/>
     - 복잡하게 되어있는 이름을 변경해주려면 사이트 클릭 - Domain settings 클릭 - options 클릭 - Edit site name
     - 이름 설정 후 저장
