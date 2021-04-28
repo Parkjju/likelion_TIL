@@ -3,6 +3,7 @@
 ### 교내 자체 세션
 
 -   [210331 git session2 - git 기초, submodule 사용법](https://github.com/Parkjju/likelion_TIL/blob/main/hufslion_session/submodules.md)
+-   [210429 배포 세션 - Netlify를 이용한 배포](https://github.com/Parkjju/likelion_TIL/blob/main/hufslion_session/deploy.md)
 
 ### classlion markdown
 
