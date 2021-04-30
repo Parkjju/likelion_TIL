@@ -1,0 +1,45 @@
+p {
+    color: red;
+}
+h2 {
+    color: blue;
+}
+
+#jun {
+    color: green;
+}
+
+.third {
+    color: brown;
+    font-size: 30px;
+}
+
+* {
+    background-color: whitesmoke;
+}
+
+a[target="_blank"] {
+    color: red;
+}
+
+a[target="_self"] {
+    color: black;
+}
+
+div > p {
+    color: blue;
+    font-size: 30px;
+}
+
+div h3 {
+    font-weight: 500;
+    color: brown;
+}
+
+div > h3 {
+    color: blueviolet;
+}
+
+a:hover {
+    color: cyan;
+}

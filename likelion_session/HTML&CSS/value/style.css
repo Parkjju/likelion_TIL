@@ -1,0 +1,20 @@
+.background {
+    background-color: burlywood;
+    height: 700px;
+}
+
+.em {
+    background-color: red;
+    height: 2em;
+    font-size: 32px;
+}
+.rem {
+    background-color: blue;
+    height: 1rem;
+    font-size: 3px;
+}
+
+.percent {
+    width: 50%;
+    background-color: cadetblue;
+}
