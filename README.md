@@ -28,6 +28,9 @@
 -   [210415 HTML&CSS - 멀티미디어 태그](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/media/media.md)
 -   [210415 HTML&CSS - 테이블과 리스트](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/table/table.md)
 -   [210418 HTML&CSS - form 태그](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/form/form.md)
+-   [210430 HTML&CSS - CSS 기초](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/CSSbasic/css-basic.md)
+-   [210430 HTML&CSS - 선택자](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/selector/selector.md)
+-   [210430 HTML&CSS - 값, 단위, 색](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/value/value.md)
 </details>
 
 ### classlion 실습 내용
@@ -53,4 +56,12 @@
 -   [210415 HTML&CSS - 미디어태그 실습](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/media/img.html)
 -   [210415 HTML&CSS - 테이블 실습](https://github.com/Parkjju/likelion_TIL/tree/main/likelion_session/HTML%26CSS/table)
 -   [210418 HTML&CSS - form태그](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/form/form.html)
+-   [210430 HTML&CSS - CSS기초 html파일](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/CSSbasic/index.html)
+-   [210430 HTML&CSS - CSS기초 CSS파일](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/CSSbasic/style.css)
+
+-   [210430 HTML&CSS - 선택자 html](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/selector/index.html)
+-   [210430 HTML&CSS - 선택자 CSS](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/selector/style.css)
+
+-   [210430 HTML&CSS - 값, 단위, 색 html](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/value/index.html)
+-   [210430 HTML&CSS - 값, 단위, 색 CSS](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/value/style.css)
 </details>
