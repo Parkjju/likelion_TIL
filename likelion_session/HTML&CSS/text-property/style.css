@@ -1,0 +1,41 @@
+/* google font */
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap");
+
+.font1 {
+    font-style: normal;
+}
+.font2 {
+    font-style: italic;
+}
+.font3 {
+    font-style: oblique;
+}
+
+.font1,
+.font2,
+.font3 {
+    font-family: "Noto Sans KR", sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.box1 {
+    text-align: center;
+}
+
+.box1 h1:nth-child(2) {
+    text-align: left;
+}
+
+.box1 h1:last-child {
+    text-align: right;
+}
+.height {
+    line-height: 2;
+    /* font-size: 30px; */
+    letter-spacing: 5px;
+    text-indent: 30px;
+}
+
+.height-3 {
+    line-height: 3;
+}

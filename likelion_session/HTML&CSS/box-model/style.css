@@ -1,0 +1,27 @@
+.inner {
+    background-color: tomato;
+    height: 400px;
+    width: 200px;
+    margin: 30px;
+    padding: 30px;
+    overflow: hidden;
+    border: solid 1px black;
+    border-top-left-radius: 30px 10px;
+    border-top-right-radius: 30px 10px;
+    box-sizing: content-box;
+}
+.main {
+    height: 500px;
+    display: flex;
+    background-color: gray;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+}
+
+body div:nth-child(2) {
+    margin: 20px;
+    box-sizing: border-box;
+}
