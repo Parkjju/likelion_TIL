@@ -31,6 +31,8 @@
 -   [210430 HTML&CSS - CSS 기초](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/CSSbasic/css-basic.md)
 -   [210430 HTML&CSS - 선택자](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/selector/selector.md)
 -   [210430 HTML&CSS - 값, 단위, 색](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/value/value.md)
+-   [210504 HTML&CSS - 텍스트와 관련된 프로퍼티](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/text-property/text-property.md)
+-   [210504 HTML&CSS - 박스모델](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/box-model/box-model.md)
 </details>
 
 ### classlion 실습 내용
@@ -64,4 +66,10 @@
 
 -   [210430 HTML&CSS - 값, 단위, 색 html](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/value/index.html)
 -   [210430 HTML&CSS - 값, 단위, 색 CSS](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/value/style.css)
+
+-   [2120504 HTML&CSS - 텍스트와 관련된 프로퍼티 html](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/text-property/index.html)
+-   [210504 HTML&CSS - 텍스트와 관련된 프로퍼티 CSS](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/text-property/style.css)
+
+-   [210504 HTML&CSS - 박스모델 html](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/box-model/index.html)
+-   [210504 HTML&CSS - 박스모델 CSS](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/box-model/style.css)
 </details>
