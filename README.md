@@ -33,6 +33,8 @@
 -   [210430 HTML&CSS - 값, 단위, 색](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/value/value.md)
 -   [210504 HTML&CSS - 텍스트와 관련된 프로퍼티](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/text-property/text-property.md)
 -   [210504 HTML&CSS - 박스모델](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/box-model/box-model.md)
+-   [210511 HTML&CSS - 위치와 관련된 프로퍼티](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/display/display.md)
+-   [210511 HTML&CSS - flexbox](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/flexbox/flexbox.md)
 </details>
 
 ### classlion 실습 내용
@@ -72,4 +74,7 @@
 
 -   [210504 HTML&CSS - 박스모델 html](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/box-model/index.html)
 -   [210504 HTML&CSS - 박스모델 CSS](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/box-model/style.css)
+-   [210511 HTML&CSS - 위치와 관련된 프로퍼티 html](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/display/index.html)
+-   [210511 HTML&CSS - flexbox 실습 1](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/flexbox/index.html)
+-   [210511 HTML&CSS - flexbox 실습 2](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/flexbox/index2.html)
 </details>
