@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+        <style>
+            body {
+                margin: 0;
+            }
+            #container {
+                background-color: skyblue;
+                display: flex;
+                height: 500px;
+                width: 500px;
+                flex-wrap: wrap;
+                flex-direction: row;
+                justify-content: space-between;
+                flex-wrap: wrap;
+                /* align-content: flex-end; */
+                /* align-items: baseline; */
+            }
+            .item {
+                border-radius: 4px;
+                background-color: pink;
+                height: 100px;
+                width: 100px;
+            }
+            .item:first-child {
+                font-size: 30px;
+            }
+            .item:nth-child(2) {
+                font-size: 80px;
+            }
+            .item:nth-child(3) {
+                font-size: 50px;
+            }
+            .item:last-child {
+                font-size: 70px;
+            }
+            .ite {
+                width: 30px;
+                height: 30px;
+                background-color: pink;
+            }
+            #container1 {
+                background-color: blanchedalmond;
+                width: 400px;
+                height: 400px;
+                display: flex;
+            }
+            .ite1,
+            .ite2,
+            .ite3 {
+                height: 100px;
+                width: 200px;
+                background-color: darkgray;
+            }
+            .ite1 {
+                flex-shrink: 0;
+            }
+            .ite2 {
+                flex-shrink: 1;
+            }
+            .ite3 {
+                flex-shrink: 2;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="container">
+            <div class="item">1</div>
+            <div class="item">2</div>
+            <div class="item">3</div>
+            <div class="item">4</div>
+            <div class="item">5</div>
+            <div class="item">6</div>
+            <div class="item">7</div>
+        </div>
+
+        <div id="container1">
+            <div class="ite1">1</div>
+            <div class="ite2">2</div>
+            <div class="ite3">3</div>
+        </div>
+    </body>
+</html>

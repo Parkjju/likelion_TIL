@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+        <style>
+            html,
+            body {
+                height: 100%;
+            }
+            body {
+                display: flex;
+                flex-direction: column;
+            }
+            * {
+                box-sizing: border-box;
+            }
+            body {
+                margin: 0;
+            }
+            a {
+                text-decoration: none;
+            }
+            a:link,
+            a:visited,
+            a:active {
+                color: inherit;
+            }
+
+            header {
+                background: skyblue;
+            }
+            nav {
+                background: pink;
+            }
+            aside {
+                background: lightgray;
+            }
+            footer {
+                background: lightcoral;
+            }
+
+            #main {
+                display: flex;
+            }
+            .article {
+                flex: 70%;
+            }
+            .aside {
+                flex: 30%;
+            }
+            .nav {
+                display: flex;
+                justify-content: flex-end;
+            }
+            .header {
+                padding: 30px;
+                text-align: center;
+            }
+            .nav a {
+                padding: 8px;
+                margin-right: 20px;
+            }
+            .nav a:hover {
+                color: black;
+                background-color: white;
+            }
+            .content,
+            aside {
+                padding: 40px;
+            }
+            footer {
+                padding: 30px;
+                text-align: center;
+                flex-shrink: 0;
+            }
+            #main {
+                flex: 1;
+            }
+        </style>
+    </head>
+    <body>
+        <header class="header">
+            <h1>My Web Page</h1>
+        </header>
+        <nav class="nav">
+            <a href="">Home</a>
+            <a href="">About</a>
+            <a href="">Q&A</a>
+        </nav>
+        <div id="main">
+            <article class="article">
+                <h2>About me</h2>
+                <h3>Introduce:</h3>
+                <p>
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. A
+                    in cum earum. Nulla doloribus officiis odio magnam
+                    perferendis blanditiis! Amet, libero tempora! Earum at,
+                    fugit quisquam optio dolor autem ipsa.
+                </p>
+            </article>
+            <aside class="aside">
+                <h2>AD</h2>
+                <p>
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                    Provident, voluptate fugit possimus labore officia
+                    consectetur nesciunt repudiandae alias quasi obcaecati,
+                    laboriosam saepe sint in nemo culpa vel itaque, repellendus
+                    eligendi.
+                </p>
+            </aside>
+        </div>
+        <footer></footer>
+    </body>
+</html>
