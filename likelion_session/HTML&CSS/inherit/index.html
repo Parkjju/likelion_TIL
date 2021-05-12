@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+        <link rel="stylesheet" href="style.css" />
+        <style>
+            div {
+                background-color: red;
+                color: white;
+            }
+            p,
+            div {
+                background-color: black;
+            }
+            p {
+                /* color: red !important; */
+                /* 최우선 적용됨 */
+            }
+            #id {
+                color: yellow;
+            }
+            div.class {
+                color: green;
+            }
+            .class {
+                color: blue;
+            }
+            div {
+                color: purple;
+            }
+            * {
+                color: white;
+            }
+            .first {
+                color: orchid;
+            }
+            .second {
+                color: peru;
+            }
+            span {
+                font-size: 100px;
+            }
+            span {
+                font-size: 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <p id="id" style="color: orange">p tag with id</p>
+        <!-- 인라인스타일이 두번째 적용됨 -->
+        <div class="class">div tag with class</div>
+        <p class="first second">first second</p>
+        <div>
+            <span>100px or 50px</span>
+        </div>
+    </body>
+</html>

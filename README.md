@@ -37,6 +37,12 @@
 -   [210511 HTML&CSS - flexbox](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/flexbox/flexbox.md)
 </details>
 
+<details>
+<summary> Python Basic </summary>
+
+-   [210512 Python - 변수와 상수 ~ 입력과 출력]()
+-   [210512 Python - 자료형\[1\] ~ 자료형\[2\] - 문자형 ]
+
 ### classlion 실습 내용
 
 <details>
