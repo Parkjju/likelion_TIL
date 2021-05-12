@@ -35,13 +35,17 @@
 -   [210504 HTML&CSS - 박스모델](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/box-model/box-model.md)
 -   [210511 HTML&CSS - 위치와 관련된 프로퍼티](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/display/display.md)
 -   [210511 HTML&CSS - flexbox](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/flexbox/flexbox.md)
+-   [210512 HTML&CSS - 상속](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/inherit/inherit.md)
+-   [210512 HTML&CSS - Bootstrap](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/bootstrap/bootstrap.md)
 </details>
 
 <details>
 <summary> Python Basic </summary>
 
--   [210512 Python - 변수와 상수 ~ 입력과 출력]()
--   [210512 Python - 자료형\[1\] ~ 자료형\[2\] - 문자형 ]
+-   [210512 Python - 변수와 상수 ~ 입력과 출력](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/python/var/variable.md)
+-   [210512 Python - 자료형\[1\] ~ 자료형\[2\] - 문자형 ](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/python/datatype/datatype.md)
+
+</details>
 
 ### classlion 실습 내용
 
@@ -83,4 +87,19 @@
 -   [210511 HTML&CSS - 위치와 관련된 프로퍼티 html](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/display/index.html)
 -   [210511 HTML&CSS - flexbox 실습 1](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/flexbox/index.html)
 -   [210511 HTML&CSS - flexbox 실습 2](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/flexbox/index2.html)
+
+-   [210512 HTML&CSS - 상속 HTML](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/inherit/index.html)
+-   [210512 HTML&CSS - 상속 CSS](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/inherit/style.css)
+
+-   [210512 HTML&CSS - Bootstrap](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/bootstrap/index.html)
+-   [210512 HTML&CSS - Bootstrap 그리드](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/HTML%26CSS/bootstrap/grid.html)
+</details>
+
+<details>
+<summary> Python Basic 실습 </summary>
+
+-   [210512 Python 변수~상수](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/python/var/input.py)
+-   [210512 Python 자료형\[2\] - 숫자형](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/python/datatype/num.py)
+-   [210512 Python 자료형\[2\] - 문자형](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/python/datatype/char.py)
+
 </details>
