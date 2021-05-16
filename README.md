@@ -44,6 +44,10 @@
 
 -   [210512 Python - 변수와 상수 ~ 입력과 출력](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/python/var/variable.md)
 -   [210512 Python - 자료형\[1\] ~ 자료형\[2\] - 문자형 ](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/python/datatype/datatype.md)
+-   [210517 Python 자료형\[3\] - 리스트, 튜플, 딕셔너리](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/python/list/list.md)
+-   [210517 Python 제어문(1) - 분기문](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/python/if/if.md)
+-   [210517 Python 제어문(2) - 반복문](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/python/loop/loop.md)
+-   [210517 Python 함수](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/python/function/function.md)
 
 </details>
 
@@ -101,5 +105,10 @@
 -   [210512 Python 변수~상수](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/python/var/input.py)
 -   [210512 Python 자료형\[2\] - 숫자형](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/python/datatype/num.py)
 -   [210512 Python 자료형\[2\] - 문자형](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/python/datatype/char.py)
+-   [210517 Python 리스트 실습](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/python/python-work/lst-work.py)
+-   [210517 Python 딕셔너리 실습](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/python/python-work/dict-work.py)
+-   [210517 Python 문자열 실습](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/python/python-work/str-work.py)
+-   [210517 Python 분기문 실습](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/python/if/if-work.py)
+-   [210517 Python 반복문 실습](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/python/loop/loop-work.py)
 
 </details>
