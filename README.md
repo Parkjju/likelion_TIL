@@ -51,6 +51,23 @@
 
 </details>
 
+<details>
+<summary> Django setting </summary>
+
+-   [20210519 Django MacOS 세팅](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/Django/setting/mac.md)
+-   [20210519 터미널사용법(1)](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/Django/setting/using-terminal.md)
+-   [20210519 터미널사용법(2)](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/Django/setting/using-term2.md)
+-   [20210520 Django시작하기](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/Django/setting/start-django.md)
+
+</details>
+
+<details>
+<summary> Django </summary>
+
+-   [20210524 MTV패턴 이해하기](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/Django/using/MTV.md)
+
+</details>
+
 ### classlion 실습 내용
 
 <details>
