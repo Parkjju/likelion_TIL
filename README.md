@@ -65,7 +65,9 @@
 <summary> Django </summary>
 
 -   [20210524 MTV패턴 이해하기](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/Django/using/MTV.md)
-
+-   [20210602 django 실습](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/Django/work/work1.md)
+-   [20210602 CRUD](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/Django/CRUD/crud.md)
+-   [20210602 DB](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/Django/DB/djangoDB.md)
 </details>
 
 ### classlion 실습 내용
