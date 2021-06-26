@@ -4,6 +4,7 @@
 
 - [210331 git session2 - git 기초, submodule 사용법](https://github.com/Parkjju/likelion_TIL/blob/main/hufslion_session/submodules.md)
 - [210429 배포 세션 - Netlify를 이용한 배포](https://github.com/Parkjju/likelion_TIL/blob/main/hufslion_session/deploy.md)
+- [Django를 활용하여 Todo List 만들어보기 - 코드](https://github.com/Parkjju/likelion_TIL/tree/main/hufslion_session/djangoSession)
 
 ### classlion markdown
 
