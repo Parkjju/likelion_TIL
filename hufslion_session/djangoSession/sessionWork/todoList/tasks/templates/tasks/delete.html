@@ -1,0 +1,42 @@
+<!-- tasks/templates/tasks/delete.html -->
+<head>
+    <link
+            rel="stylesheet"
+            href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+            integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+            crossorigin="anonymous"
+    />
+
+    <style>
+        .app-container {
+            height: 100vh;
+            width: 100%;
+            background-color: #202124;
+        }
+
+        .complete {
+            text-decoration: line-through;
+        }
+    </style>
+</head>
+</head>
+
+<div class="app-container d-flex align-items-center justify-content-center flex-column">
+    <h2 style="text-align: center; color: white">Are you sure you want to delete "{{ item }}"?</h2>
+
+
+    <div class="row">
+        <div class="col-sm-12 text-center">
+            <form method="POST" action="">
+                {% csrf_token %}
+                <button type="submit" id="Confirm" class="btn btn-danger">Delete</button>
+
+                <button type="button" class="btn btn-secondary" href="{% url 'list' %}">
+                    <a href="{% url 'list' %}" style="color:white">Cancel</a>
+                </button>
+            </form>
+
+
+        </div>
+    </div>
+</div>

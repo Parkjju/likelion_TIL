@@ -1,0 +1,61 @@
+{% load crispy_forms_filters %}
+{% load static %}
+<head>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.9/angular.min.js"></script>
+  <link
+    rel="stylesheet"
+    href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+    crossorigin="anonymous"
+  />
+
+  <style>
+    .app-container {
+      height: 100vh;
+      width: 100%;
+    }
+
+    .complete {
+      text-decoration: line-through;
+    }
+  </style>
+  <link href="{% static 'css/main.css' %}" rel="stylesheet"/>
+</head>
+<div
+  class="
+    app-container
+    d-flex
+    align-items-center
+    justify-content-center
+    flex-column
+  "
+  ng-app="myApp"
+  ng-controller="myController"
+>
+  <h3>Update Todo</h3>
+
+  <form action="{%url 'update' todo.id%}" method="POST">
+    {% csrf_token %}
+    <p>Todo : <input type="text" name="title" value="{{todo.title}}" /></p>
+
+    {% if todo.complete == True %}
+    <p>
+        <p>
+
+            complete
+            <input type="checkbox" name="complete" checked />
+        </p>
+        <p>
+            Well done! 😀
+        </p>
+    </p>
+    {% else %}
+    <p>complete <input type="checkbox" name="complete" /></p>
+    {% endif %}
+    <button type="submit" class="btn btn-danger">Update</button>
+
+    <button type="button" class="btn btn-secondary" href="{% url 'list' %}">
+      <a href="{% url 'list' %}" style="color: white">Cancel</a>
+    </button>
+  </form>
+</div>

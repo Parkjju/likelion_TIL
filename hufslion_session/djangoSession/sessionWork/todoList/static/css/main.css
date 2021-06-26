@@ -1,0 +1,13 @@
+.check_circle {
+  border-radius: 50%;
+  height: 2.25rem;
+  width: 2.25rem;
+  border-color: grey;
+  border: 1px;
+}
+
+.left_box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
