@@ -28,4 +28,13 @@
 
 ### s3와 연동하기
 
-- `pip install django-stoarges`패키지 다운
+- `pip install django-stoarges`패키지 다운 & `boto3` 패키지도 다운
+- django-storages 공식문서 참조하여 아마존 S3관련 변수들 설정.
+  - AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY, AWS_STORAGE_BUCKET_NAME 기본 설정
+
+```python
+# 추가적으로 region성격에 따른 변수선언
+AWS_S3_SIGNATURE_VERSION = 's3v4'
+AWS_S3_REGION_NAME = 'ap-northeast-2'
+AWS_S3_CUSTOM_DOMAIN = 'd37gx43o3Int1n.cloudfront.net'
+```

@@ -74,7 +74,7 @@
 - [20210622 django media files](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/Django/media/media.md)
 - [20210622 django form](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/Django/form/form.md)
 - [20210622 django user확장과 인증 (이론~실습2까지)](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/user/user.md)
-
+- [20210702 django paginator](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/Django/pagination/paginator.md)
 </details>
 
 ### classlion 실습 내용
@@ -136,5 +136,12 @@
 - [210517 Python 문자열 실습](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/python/python-work/str-work.py)
 - [210517 Python 분기문 실습](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/python/if/if-work.py)
 - [210517 Python 반복문 실습](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/python/loop/loop-work.py)
+
+</details>
+
+<details>
+<summary> Deploy </summary>
+
+- [20210702 배포 사전 준비](https://github.com/Parkjju/likelion_TIL/blob/main/likelion_session/deploy/prerequisite.md)
 
 </details>
